@@ -1,4 +1,5 @@
 fun cakeForLoop() {
+    // https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/list-of.html#listof
     val cakes = listOf("vanilla", "chocolate", "cheese")
 
     for (cake in cakes) {
